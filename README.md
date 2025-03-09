@@ -2,7 +2,7 @@
 
 **Es un juego de plataformas con 4 niveles.**
 
-Para empezar hay que pulsar cualquier tecla y se abrirá un selector de nivel. Al pulsar en la bomba el juego se cierra. Al pasar por encima del engranaje se ve el autor, la versión y un botón para reiniciar el juego por completo **"Restart Game"**, al pulsar en el engranaje se quedará la ventana abierta y se podrá hacer **"Click"** en el botón para reiniciar el juego **"Restart Game"**. Al pulsar sobre un corazón/nivel abre el nivel seleccionado.
+Para empezar al pulsar cualquier tecla se abrirá un selector de niveles. Al usar **"Click"** en la bomba el juego se cierra. Al pasar el ratón por encima del engranaje se ve el autor, la versión y un botón para reiniciar el juego por completo **"Restart Game"**, al pulsar en el engranaje se quedará la ventana abierta y se podrá hacer **"Click"** en el botón para reiniciar el juego **"Restart Game"**. Al hacer **"Click"** sobre un corazón/nivel se abre el nivel seleccionado.
 
 Los controles dentro de los niveles son: **"W"**, **"Flecha Arriba"**, **"Espacio"** o **"Click"** para saltar, **"A"** o **"Flecha Izquierda"** para ir a la izquierda, **"D"** o **"Flecha Derecha"** para ir a la derecha, **"ESC"** para salir al selector de niveles.
 

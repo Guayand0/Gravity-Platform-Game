@@ -12,4 +12,4 @@ Si el jugador pierde todas las vidas se abre la ventana de nivel fallido, pulsan
 
 Si el jugador se pasa el nivel llegando a la estrella se abre la ventana de nivel completado, pulsando **"ESC"** se vuelve al selector de niveles y el color del nivel completado habrá cambiado a verde.
 
-Al completar los 4 niveles, en el engranaje, aparecerá un texto "Game Completed" indicando que has completado el juego.
+Al completar los 4 niveles, en el engranaje, aparecerá un texto **"Game Completed"** indicando que has completado el juego.
